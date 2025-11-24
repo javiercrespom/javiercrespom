@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Javier
 
-<!--
-**javiercrespom/javiercrespom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy **desarrollador multiplataforma y técnico informático** con experiencia en soporte IT, administración de sistemas, desarrollo de aplicaciones y **soluciones de IA**. Me apasiona aprender nuevas tecnologías, enfrentar retos técnicos y crear proyectos eficientes e innovadores.
 
-Here are some ideas to get you started:
+## Habilidades
+- 💻 Desarrollo de aplicaciones multiplataforma (Android, Kotlin, Java)  
+- 🤖 Implementación de soluciones de Inteligencia Artificial  
+- 🔧 Automatización de procesos y flujos de trabajo (n8n, scripts)  
+- 🖥️ Soporte IT y administración de sistemas  
+- 🛠️ Proactivo, resolutivo y orientado al aprendizaje continuo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis intereses
+- Desarrollo de aplicaciones móviles y backend  
+- Integración de IA en proyectos prácticos  
+- Automatización de procesos y sistemas  
+- Nuevas tecnologías y frameworks
+
+## Contacto
+- 📧 Email: [tu correo]  
+- 🌐 LinkedIn: [tu perfil de LinkedIn]  
+- 🏀 Aficiones: deporte y viajar por el mundo
+
