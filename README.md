@@ -1,4 +1,9 @@
-<h1 align="center">👋 ¡Hola! Soy Javier</h1>
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=120&section=header&text=Javier%20-%20Desarrollador%20Multiplataforma&fontSize=28&fontColor=38bdf8" />
+</p>
+
+<h2 align="center">👋 ¡Hola! Bienvenido a mi GitHub</h2>
 
 <p align="center">
   <strong>Técnico Informático • Desarrollador Multiplataforma • IA & Automatización</strong>
@@ -6,56 +11,68 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiercrespom&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+---
+
+## 🚀 Tecnologías y Herramientas
+
+<p align="left">
+
+<!-- Lenguajes -->
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<br>
+
+<!-- Desarrollo -->
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-0EA5E9?style=for-the-badge"/>
+
+<br>
+
+<!-- Automatización & IA -->
+<img src="https://img.shields.io/badge/n8n-F46262?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-0F766E?style=for-the-badge"/>
+
+<br>
+
+<!-- IT -->
+<img src="https://img.shields.io/badge/Soporte%20IT-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Admin%20Sistemas-334155?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<h2>💻 Sobre mí</h2>
+## 💻 Sobre mí
 
 Desarrollador multiplataforma con experiencia en creación de aplicaciones, automatización de procesos e implementación de soluciones de IA.  
-Me considero **proactivo, muy resolutivo y con gran motivación por aprender nuevas tecnologías**.
+Me considero **proactivo, muy resolutivo y con gran motivación por aprender y adoptar nuevas tecnologías**.
 
 ---
 
-<h2>🛠️ Habilidades</h2>
 
-<div>
-  <strong>Lenguajes:</strong><br>
-  • Kotlin • Java • Python  
-  <br><br>
-  <strong>Desarrollo:</strong><br>
-  • Android • Backend • APIs  
-  <br><br>
-  <strong>Automatización & IA:</strong><br>
-  • n8n • OpenAI • Embeddings • Integraciones API  
-  <br><br>
-  <strong>IT:</strong><br>
-  • Soporte técnico • Administración de sistemas  
-</div>
+## 📌 Intereses
 
----
-
-<h2>📌 Intereses</h2>
-
-- Desarrollo móvil  
-- IA aplicada en proyectos reales  
+- Desarrollo de apps móviles  
+- IA aplicada a productos reales  
 - Backend  
-- Automatización de procesos  
+- Automatización de flujos y sistemas  
 
 ---
 
-<h2>📫 Contacto</h2>
+## 📫 Contacto
 
 <p>
-  <strong>GitHub:</strong> <a href="https://github.com/TU_USUARIO">github.com/TU_USUARIO</a><br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/TU_LINKEDIN">linkedin.com/in/TU_LINKEDIN</a><br>
-  <strong>Email:</strong> tuemail@example.com
+  <strong>Email:</strong> javiercrespom00@gmail.com
+
 </p>
 
----
+<br>
 
 <p align="center">
   <em>Gracias por visitar mi perfil 👨‍💻✨</em>
 </p>
+
